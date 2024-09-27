@@ -1,0 +1,57 @@
+img {
+    max-width: 200px;
+}
+
+* {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+
+
+header {
+
+    text-align: center;
+}
+
+#ville {
+
+    background-color: lightgray;
+    padding: 15px;
+
+}
+
+#ville input {
+
+    border: none; 
+    outline: none;
+    background-color: transparent;
+}
+
+#reserver {
+
+    text-align: center;
+    background-color: rgb(238, 238, 238);
+    padding-top: 5px;
+    padding-bottom: 15px;
+    
+}
+
+#reserver h1 {
+
+    margin-bottom: 30px;
+}
+
+#reserver p {
+
+    margin-bottom: 30px;
+}
+
+#boutton {
+    
+    background: linear-gradient(193.33deg, #9356DC -11.44%, #FF79DA 123.93%);
+    padding: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
